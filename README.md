@@ -17,3 +17,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKYlU&layout=compact&hide_border=true&title_color=ff91a8&text_color=c9d1d9&bg_color=0d1117" />
     </
     div>
+
+[![Ver configuração.nix](https://img.shields.io/badge/configuration.nix-ver%20arquivo-blue?style=for-the-badge&logo=gnu-linux)](https://github.com/AKYlU/Config_Linux/blob/main/NixOS/Hyprland/configuration.nix)
+
