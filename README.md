@@ -22,4 +22,7 @@
 ➡️ [Clique aqui para ver o arquivo `configuration.nix`](https://github.com/AKYlU/Config_Linux/blob/main/NixOS/Hyprland/configuration.nix)
 
 [![📄 configuration.nix](https://img.shields.io/badge/📄-configuration.nix-339AF0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKYlU/Config_Linux/blob/main/NixOS/Hyprland/configuration.nix)
+<div align="center">
+  [![📄 configuration.nix](https://img.shields.io/badge/📄-configuration.nix-339AF0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKYlU/Config_Linux/blob/main/NixOS/Hyprland/configuration.nix)
+</div>
 
