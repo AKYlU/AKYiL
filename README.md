@@ -19,4 +19,6 @@
     div>
 
 [![Ver configuração.nix](https://img.shields.io/badge/configuration.nix-ver%20arquivo-blue?style=for-the-badge&logo=gnu-linux)](https://github.com/AKYlU/Config_Linux/blob/main/NixOS/Hyprland/configuration.nix)
+➡️ [Clique aqui para ver o arquivo `configuration.nix`](https://github.com/AKYlU/Config_Linux/blob/main/NixOS/Hyprland/configuration.nix)
+
 
